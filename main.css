@@ -1,0 +1,39 @@
+body {
+  background-image: url("img/background.jpg");
+  background-color: #cccccc;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 10px 5px 10px 20px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#starwars{
+    background: url("img/Star_Wars_Yellow_Logo.svg.png");
+    width : 256px;
+    height : 109px;
+    margin: 5px 5px 5px 5px;
+}
+
+p {
+    color: #FFE81F;
+    font-family: 'Poller One', cursive;
+    font-size: 10px;
+}
+
+input {
+    background-color: #cccccc;
+}
+
+a {
+    color: #FFE81F;
+    font-family: 'Poller One', cursive;
+    opacity: 0.6;
+    font-size: 12px;
+}
+
+
+
